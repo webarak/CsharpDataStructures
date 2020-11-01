@@ -1,0 +1,7 @@
+F:\כיתה יא\מדעי המחשב\מבני נתונים\חוליות\P.57\P.57\bin\Debug\P.57.exe.config
+F:\כיתה יא\מדעי המחשב\מבני נתונים\חוליות\P.57\P.57\bin\Debug\P.57.exe
+F:\כיתה יא\מדעי המחשב\מבני נתונים\חוליות\P.57\P.57\bin\Debug\P.57.pdb
+F:\כיתה יא\מדעי המחשב\מבני נתונים\חוליות\P.57\P.57\obj\Debug\P.57.csprojResolveAssemblyReference.cache
+F:\כיתה יא\מדעי המחשב\מבני נתונים\חוליות\P.57\P.57\obj\Debug\P.57.csproj.CoreCompileInputs.cache
+F:\כיתה יא\מדעי המחשב\מבני נתונים\חוליות\P.57\P.57\obj\Debug\P.57.exe
+F:\כיתה יא\מדעי המחשב\מבני נתונים\חוליות\P.57\P.57\obj\Debug\P.57.pdb

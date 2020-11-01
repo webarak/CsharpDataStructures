@@ -1,0 +1,10 @@
+F:\כיתה יא\מדעי המחשב\ex1 - 9.9.19\p11\bin\Debug\p11.exe
+F:\כיתה יא\מדעי המחשב\ex1 - 9.9.19\p11\bin\Debug\p11.pdb
+F:\כיתה יא\מדעי המחשב\ex1 - 9.9.19\p11\obj\x86\Debug\p11.exe
+F:\כיתה יא\מדעי המחשב\ex1 - 9.9.19\p11\obj\x86\Debug\p11.pdb
+E:\כיתה יא\מדעי המחשב\מבני נתונים\ex1 - 9.9.19\p11\bin\Debug\p11.exe
+E:\כיתה יא\מדעי המחשב\מבני נתונים\ex1 - 9.9.19\p11\bin\Debug\p11.pdb
+E:\כיתה יא\מדעי המחשב\מבני נתונים\ex1 - 9.9.19\p11\obj\x86\Debug\p11.csprojAssemblyReference.cache
+E:\כיתה יא\מדעי המחשב\מבני נתונים\ex1 - 9.9.19\p11\obj\x86\Debug\p11.csproj.CoreCompileInputs.cache
+E:\כיתה יא\מדעי המחשב\מבני נתונים\ex1 - 9.9.19\p11\obj\x86\Debug\p11.exe
+E:\כיתה יא\מדעי המחשב\מבני נתונים\ex1 - 9.9.19\p11\obj\x86\Debug\p11.pdb

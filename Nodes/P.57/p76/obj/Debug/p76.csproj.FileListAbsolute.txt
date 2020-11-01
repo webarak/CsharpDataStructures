@@ -1,0 +1,7 @@
+F:\כיתה יא\מדעי המחשב\מבני נתונים\חוליות\P.57\p76\bin\Debug\p76.exe.config
+F:\כיתה יא\מדעי המחשב\מבני נתונים\חוליות\P.57\p76\bin\Debug\p76.exe
+F:\כיתה יא\מדעי המחשב\מבני נתונים\חוליות\P.57\p76\bin\Debug\p76.pdb
+F:\כיתה יא\מדעי המחשב\מבני נתונים\חוליות\P.57\p76\obj\Debug\p76.csproj.CoreCompileInputs.cache
+F:\כיתה יא\מדעי המחשב\מבני נתונים\חוליות\P.57\p76\obj\Debug\p76.exe
+F:\כיתה יא\מדעי המחשב\מבני נתונים\חוליות\P.57\p76\obj\Debug\p76.pdb
+F:\כיתה יא\מדעי המחשב\מבני נתונים\חוליות\P.57\p76\obj\Debug\p76.csprojResolveAssemblyReference.cache

@@ -1,0 +1,8 @@
+F:\כיתה יא\מדעי המחשב\מבני נתונים\מחסניות\בגרות קיץ תשנט טנם\NAKI\NAKI\bin\Debug\NAKI.exe.config
+F:\כיתה יא\מדעי המחשב\מבני נתונים\מחסניות\בגרות קיץ תשנט טנם\NAKI\NAKI\bin\Debug\NAKI.exe
+F:\כיתה יא\מדעי המחשב\מבני נתונים\מחסניות\בגרות קיץ תשנט טנם\NAKI\NAKI\bin\Debug\NAKI.pdb
+F:\כיתה יא\מדעי המחשב\מבני נתונים\מחסניות\בגרות קיץ תשנט טנם\NAKI\NAKI\bin\Debug\Data Structures.dll
+F:\כיתה יא\מדעי המחשב\מבני נתונים\מחסניות\בגרות קיץ תשנט טנם\NAKI\NAKI\obj\Debug\NAKI.csprojResolveAssemblyReference.cache
+F:\כיתה יא\מדעי המחשב\מבני נתונים\מחסניות\בגרות קיץ תשנט טנם\NAKI\NAKI\obj\Debug\NAKI.csproj.CoreCompileInputs.cache
+F:\כיתה יא\מדעי המחשב\מבני נתונים\מחסניות\בגרות קיץ תשנט טנם\NAKI\NAKI\obj\Debug\NAKI.exe
+F:\כיתה יא\מדעי המחשב\מבני נתונים\מחסניות\בגרות קיץ תשנט טנם\NAKI\NAKI\obj\Debug\NAKI.pdb

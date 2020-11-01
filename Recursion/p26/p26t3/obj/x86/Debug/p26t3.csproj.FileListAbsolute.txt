@@ -1,0 +1,6 @@
+E:\כיתה יא\מדעי המחשב\מבני נתונים\ex1 - 9.9.19\p26t3\obj\x86\Debug\p26t3.csproj.CoreCompileInputs.cache
+E:\כיתה יא\מדעי המחשב\מבני נתונים\ex1 - 9.9.19\p26t3\bin\Debug\p26t3.exe
+E:\כיתה יא\מדעי המחשב\מבני נתונים\ex1 - 9.9.19\p26t3\bin\Debug\p26t3.pdb
+E:\כיתה יא\מדעי המחשב\מבני נתונים\ex1 - 9.9.19\p26t3\obj\x86\Debug\p26t3.exe
+E:\כיתה יא\מדעי המחשב\מבני נתונים\ex1 - 9.9.19\p26t3\obj\x86\Debug\p26t3.pdb
+E:\כיתה יא\מדעי המחשב\מבני נתונים\ex1 - 9.9.19\p26t3\obj\x86\Debug\p26t3.csprojAssemblyReference.cache

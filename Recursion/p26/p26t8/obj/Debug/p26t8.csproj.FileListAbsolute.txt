@@ -1,0 +1,7 @@
+F:\כיתה יא\מדעי המחשב\מבני נתונים\p26\p26t8\bin\Debug\p26t8.exe.config
+F:\כיתה יא\מדעי המחשב\מבני נתונים\p26\p26t8\bin\Debug\p26t8.exe
+F:\כיתה יא\מדעי המחשב\מבני נתונים\p26\p26t8\bin\Debug\p26t8.pdb
+F:\כיתה יא\מדעי המחשב\מבני נתונים\p26\p26t8\obj\Debug\p26t8.csprojResolveAssemblyReference.cache
+F:\כיתה יא\מדעי המחשב\מבני נתונים\p26\p26t8\obj\Debug\p26t8.csproj.CoreCompileInputs.cache
+F:\כיתה יא\מדעי המחשב\מבני נתונים\p26\p26t8\obj\Debug\p26t8.exe
+F:\כיתה יא\מדעי המחשב\מבני נתונים\p26\p26t8\obj\Debug\p26t8.pdb

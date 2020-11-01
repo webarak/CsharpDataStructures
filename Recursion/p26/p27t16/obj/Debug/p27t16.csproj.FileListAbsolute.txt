@@ -1,0 +1,6 @@
+F:\כיתה יא\מדעי המחשב\מבני נתונים\p26\p27t16\bin\Debug\p27t16.exe.config
+F:\כיתה יא\מדעי המחשב\מבני נתונים\p26\p27t16\bin\Debug\p27t16.exe
+F:\כיתה יא\מדעי המחשב\מבני נתונים\p26\p27t16\bin\Debug\p27t16.pdb
+F:\כיתה יא\מדעי המחשב\מבני נתונים\p26\p27t16\obj\Debug\p27t16.csproj.CoreCompileInputs.cache
+F:\כיתה יא\מדעי המחשב\מבני נתונים\p26\p27t16\obj\Debug\p27t16.exe
+F:\כיתה יא\מדעי המחשב\מבני נתונים\p26\p27t16\obj\Debug\p27t16.pdb

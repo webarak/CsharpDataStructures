@@ -1,0 +1,12 @@
+E:\כיתה יא\מדעי המחשב\מבני נתונים\ex1 - 9.9.19\p26t5\bin\Debug\p26t5.exe.config
+E:\כיתה יא\מדעי המחשב\מבני נתונים\ex1 - 9.9.19\p26t5\bin\Debug\p26t5.exe
+E:\כיתה יא\מדעי המחשב\מבני נתונים\ex1 - 9.9.19\p26t5\bin\Debug\p26t5.pdb
+E:\כיתה יא\מדעי המחשב\מבני נתונים\ex1 - 9.9.19\p26t5\obj\Debug\p26t5.csproj.CoreCompileInputs.cache
+E:\כיתה יא\מדעי המחשב\מבני נתונים\ex1 - 9.9.19\p26t5\obj\Debug\p26t5.exe
+E:\כיתה יא\מדעי המחשב\מבני נתונים\ex1 - 9.9.19\p26t5\obj\Debug\p26t5.pdb
+E:\כיתה יא\מדעי המחשב\מבני נתונים\p26\p26t5\bin\Debug\p26t5.exe.config
+E:\כיתה יא\מדעי המחשב\מבני נתונים\p26\p26t5\bin\Debug\p26t5.exe
+E:\כיתה יא\מדעי המחשב\מבני נתונים\p26\p26t5\bin\Debug\p26t5.pdb
+E:\כיתה יא\מדעי המחשב\מבני נתונים\p26\p26t5\obj\Debug\p26t5.csproj.CoreCompileInputs.cache
+E:\כיתה יא\מדעי המחשב\מבני נתונים\p26\p26t5\obj\Debug\p26t5.exe
+E:\כיתה יא\מדעי המחשב\מבני נתונים\p26\p26t5\obj\Debug\p26t5.pdb

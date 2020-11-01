@@ -1,0 +1,17 @@
+F:\כיתה יא\מדעי המחשב\מבני נתונים\תור\p_152\p_152\bin\Debug\p_152.exe.config
+F:\כיתה יא\מדעי המחשב\מבני נתונים\תור\p_152\p_152\bin\Debug\p_152.exe
+F:\כיתה יא\מדעי המחשב\מבני נתונים\תור\p_152\p_152\bin\Debug\p_152.pdb
+F:\כיתה יא\מדעי המחשב\מבני נתונים\תור\p_152\p_152\bin\Debug\Data Structures.dll
+F:\כיתה יא\מדעי המחשב\מבני נתונים\תור\p_152\p_152\obj\Debug\p_152.csproj.CoreCompileInputs.cache
+F:\כיתה יא\מדעי המחשב\מבני נתונים\תור\p_152\p_152\obj\Debug\p_152.exe
+F:\כיתה יא\מדעי המחשב\מבני נתונים\תור\p_152\p_152\obj\Debug\p_152.pdb
+E:\כיתה יא\מדעי המחשב\מבני נתונים\תור\p_152\p_152\bin\Debug\p_152.exe.config
+E:\כיתה יא\מדעי המחשב\מבני נתונים\תור\p_152\p_152\bin\Debug\p_152.exe
+E:\כיתה יא\מדעי המחשב\מבני נתונים\תור\p_152\p_152\bin\Debug\p_152.pdb
+E:\כיתה יא\מדעי המחשב\מבני נתונים\תור\p_152\p_152\bin\Debug\Data Structures.dll
+E:\כיתה יא\מדעי המחשב\מבני נתונים\תור\p_152\p_152\obj\Debug\p_152.csprojAssemblyReference.cache
+E:\כיתה יא\מדעי המחשב\מבני נתונים\תור\p_152\p_152\obj\Debug\p_152.csproj.CoreCompileInputs.cache
+E:\כיתה יא\מדעי המחשב\מבני נתונים\תור\p_152\p_152\obj\Debug\p_152.csproj.CopyComplete
+E:\כיתה יא\מדעי המחשב\מבני נתונים\תור\p_152\p_152\obj\Debug\p_152.exe
+E:\כיתה יא\מדעי המחשב\מבני נתונים\תור\p_152\p_152\obj\Debug\p_152.pdb
+F:\כיתה יא\מדעי המחשב\מבני נתונים\תור\p_152\p_152\obj\Debug\p_152.csprojResolveAssemblyReference.cache
